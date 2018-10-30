@@ -220,6 +220,8 @@ input[type=submit] {
 
 @media screen and (max-width: 980px) {}
 
+/* Still need to play with margins to get spacing correct. */
+
 @media screen and (max-width: 768px) {
   #logo {
     width: 100vw;
